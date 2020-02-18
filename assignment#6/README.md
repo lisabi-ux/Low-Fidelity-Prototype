@@ -10,7 +10,7 @@ Brief Summary
 
 - Purpose:
 
-Wireframes, Version #1 & Version #2 
+Wireframes & Wireflow, Version #1 & Version #2 
 
 - Prototype Version #1
 
