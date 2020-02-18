@@ -24,5 +24,23 @@ Wireframes & Wireflow, Version #1 & Version #2
 
 ![prototype #2](https://user-images.githubusercontent.com/59623164/74706641-5afe1280-51cc-11ea-8bd1-d74673650ddf.jpeg)
 
+Testing
+
+- Testing Video
+
+https://drive.google.com/file/d/1yGroeat5B5uPETaygXUMkKN97UGXfZ7P/view?usp=sharing
+
+- State #1
+
+![state 1](https://user-images.githubusercontent.com/59623164/74707329-66ead400-51ce-11ea-9bdb-9357b046a4fe.PNG)
+
+- State #2
+
+![state 2](https://user-images.githubusercontent.com/59623164/74707340-7538f000-51ce-11ea-8280-e9f87adcc0c0.PNG)
+
+- State #3
+
+![state 3](https://user-images.githubusercontent.com/59623164/74707357-8124b200-51ce-11ea-86d9-aa3b65ac03bd.PNG)
+
 
 
