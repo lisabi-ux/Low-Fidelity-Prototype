@@ -50,5 +50,22 @@ Testing
 
 ![state 3](https://user-images.githubusercontent.com/59623164/74707357-8124b200-51ce-11ea-86d9-aa3b65ac03bd.PNG)
 
+- Revised Prototype Explained: 
 
+![p2 revisions](https://user-images.githubusercontent.com/59623164/74707778-a4039600-51cf-11ea-9ce7-800b393c84c2.jpeg)
 
+  - 1. 
+  
+  - 2. 
+  
+  - 3. 
+  
+  - 4. 
+  
+  - 5. 
+  
+  - 6.
+  
+  - 7. 
+  
+ - 
