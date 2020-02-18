@@ -1,10 +1,10 @@
 # Low-Fidelity-Prototype
 
-### DH150 Assignment01: Low Fidelity Prototype by Naomi Deng
+### DH150 Assignment06: Low Fidelity Prototype by Naomi Deng
 
 Brief Summary
 
-- User Research
+- User Research:  
 
 - Persona & Three Features
 
