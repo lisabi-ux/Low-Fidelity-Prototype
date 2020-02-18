@@ -4,7 +4,7 @@
 
 Brief Summary
 
-- User Research:  
+- User Research: My user research focuses on the experience of UCLA students that belong to the LGBTQ community. Two of my main questions are 1. Whether UCLA students feel comfortable expressing their identity to others?  2. Whether UCLA students feel there are enough resources to find belongingness, comfort, and support. To grasp a more personal and closer understanding of these questions, I chose to interview a fourth-year International UCLA student from China, Ruchen. Ruchen self-identifies as bisexual, and she conveyed her experiences at UCLA to me. From her answers to my questions on the interview script, I learned that the size and scope of the UCLA college community create difficulties for students to find appropriate support and LGBTQ resources, let alone joining an organization. Moreover, LGBTQ groups still face everyday difficulties caused by misunderstanding, confusion, and discrimination. Lastly and most essentially, international student groups do not receive sufficient recognition and specialized support. This has resulted in more hardships while international students are coping with their everyday experiences, in addition to cultural shock and nostalgia. My user research largely inspired me while creating my persona and scenarios, where I decided to incorporated what I have learned and observed from the interview. 
 
 - Persona & Three Features
 
