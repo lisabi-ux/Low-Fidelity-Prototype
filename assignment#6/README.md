@@ -54,6 +54,10 @@ Reflection:
 
 - Testing Process: 
 
+  - The tester managed to complete three tasks. Prior to the testing, I had concerns with my hand-drawing and its effects on the tester’s ability to complete three tasks. Especially for task #1 – to find the “Help” page, learn how to use the “Search” function and use the search function to search the keyword “Transgender”. As it is shown, this particular activity/interaction sequence is relatively more complex than for example, task #2, to find the “International” page through the home bar and go to that page. However, my tester finished all three tasks regardless of complexity level, though task #3 required more time. 
+  - My tester provided some very useful information that helps the revised version of the prototype. Prior to the testing, I have no information on my tester’s website usage (e.x. would she recognize a convenient web feature? Does she have preferred websites that she thinks are easy to use.) It turns out that my tester has some level of knowledge about web design, and when I ask her what she thinks of a certain feature, she offered me insights, as well as examples she considers, could be a promising model for changes and modifications. 
+
+
 - Revised Prototype Explained: 
 
 ![p2 revisions](https://user-images.githubusercontent.com/59623164/74707778-a4039600-51cf-11ea-9ce7-800b393c84c2.jpeg)
