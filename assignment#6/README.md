@@ -61,7 +61,12 @@ Reflection:
   - What I would change : First of all, I would draw on a larger paper. The tiny frames restricted the amount of information contained in each wireframe and thus affected the tester while the tester was trying to comprehend the features as well as while she was completing the tasks. Because of the restrictions of space, I could only represent plenty of words and buttons with tiny fonts and elements. If I would change and redo the testing, I would change to a larger paper where each wireframe could be bigger, and thus clearer for the tester to see and learn. Moreover, I would consider using balsamic or other online low-fi prototyping software. This is  an alternative option for a more smoothly testing process. I would choose to use this software to create more organized, size-unified and well-formatted wireframes and thus there wouldn’t be errors due to comprehension of hand-drawing and size of wireframes. Lastly, I would ake sure to check with my tester about the testing method (drawing on a paper or on the iPad) she is  most comfortable with. I chose to let my user draw on the iPad (Cabinet application) because of the convenience for recording and thus documenting the process. However, I failed to consider how my tester feels and what methods she prefers to use. (e.x. whether she likes to use hand to draw on a paper or to use electronic devices) If I were to do the process again, I would provide her with both options and make sure she chooses the one she’s most comfortable with. 
 
   - Feedback in question format
-    1. 
+ 
+  1. Confusion regarding the interaction sequence: “What is this frame about?” “Where does it take me to?” “Is this an arrow?”
+  
+  2. Confusion about the function design and consistency: “Why can’t I directly use the search bar?” “What if I want to see more?” “Why does this page have a scroll bar but that page does not have one?” 
+  
+  3. Confusion about the interactive elements: “Is this a button/hyperlink?” “Should/Can I click here?”
 
 
 - Revised Prototype Explained: 
