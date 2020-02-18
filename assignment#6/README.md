@@ -73,16 +73,16 @@ Reflection:
 
 ![p2 revisions](https://user-images.githubusercontent.com/59623164/74707778-a4039600-51cf-11ea-9ce7-800b393c84c2.jpeg)
 
-  1. 
+  1. Added scroll bar on each wireframe for consistency
   
-  2. 
+  2. Modified the content to comply with reality and provide more clarifications of the function behind this feature (Help page)
   
-  3.
+  3. Redesigned the Search Bar. In prototype #1 the home bar takes the user to a separate page. In the revised version the search bar has its own pop-up box
   
-  4.
+  4. Redesigned the website layout (added a side bar and categories in the content, such as “News” and “Politics”) to comply with the original website design, – no more “can I click here” issues
   
-  5.
+  5. Added “suggested keywords” and “last-time searches” to comply with convenient and realistic website design 
   
-  6.
+  6. Redesigned the website layout for the search results
   
-  7.
+  7. Added finger tip icons as an indication of the hyperlink function 
