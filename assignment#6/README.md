@@ -29,6 +29,8 @@ Testing
 - Testing Video
 
   - https://drive.google.com/file/d/1yGroeat5B5uPETaygXUMkKN97UGXfZ7P/view?usp=sharing
+  
+  - The video exhibits the tester's pathsways as well as confusion and comments to unexpected interaction/interfaces. 
 
 - State #1
 
