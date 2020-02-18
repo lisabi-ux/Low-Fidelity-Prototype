@@ -1,4 +1,4 @@
-# Low-Fidelity-Prototype
+# Low Fidelity Prototype - OutWrite Magazine
 
 ### DH150 Assignment06: Low Fidelity Prototype by Naomi Deng
 
