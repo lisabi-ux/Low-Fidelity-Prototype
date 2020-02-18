@@ -29,8 +29,6 @@ Testing
 - Testing Video
 
   - https://drive.google.com/file/d/1yGroeat5B5uPETaygXUMkKN97UGXfZ7P/view?usp=sharing
-  
-  - Summary: 
 
 - State #1
 
@@ -50,22 +48,24 @@ Testing
 
 ![state 3](https://user-images.githubusercontent.com/59623164/74707357-8124b200-51ce-11ea-86d9-aa3b65ac03bd.PNG)
 
+Reflection: 
+
+- Testing Process: 
+
 - Revised Prototype Explained: 
 
 ![p2 revisions](https://user-images.githubusercontent.com/59623164/74707778-a4039600-51cf-11ea-9ce7-800b393c84c2.jpeg)
 
-  - 1. 
+  1. 
   
-  - 2. 
+  2. 
   
-  - 3. 
+  3.
   
-  - 4. 
+  4.
   
-  - 5. 
+  5.
   
-  - 6.
+  6.
   
-  - 7. 
-  
- - 
+  7.
