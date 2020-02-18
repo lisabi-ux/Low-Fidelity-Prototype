@@ -1,4 +1,4 @@
-# Low Fidelity Prototype - OutWrite Magazine
+# Low Fidelity Prototype - OutWrite Magazine Website
 
 ### DH150 Assignment06: Low Fidelity Prototype by Naomi Deng
 
