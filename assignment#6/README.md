@@ -10,7 +10,7 @@
 
 - Purpose: I have three purposes for Low-Fidelity Testing. Firstly, to test whether the features I designed for each of the personas work for people in reality. I want to observe and interview whether they feel weird about the features. Secondly, to inquire and innovate solutions. I would like to ask my tester if they feel weird about the feature, how would they like the interactions to be and how would they feel comfortable with using each feature.  Moreover, I to ask my tester (after the testing) whether there should be additional features they would like to see on the website. I would like to free myself from what I have done previously, and put myself in my tester’s shows and listen to their suggestions. 
 
-Wireframes & Wireflow, Version #1 & Version #2 
+#### Wireframes & Wireflow, Version #1 & Version #2 
 
 - Prototype Version #1
 
